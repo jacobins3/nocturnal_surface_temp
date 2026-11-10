@@ -1,0 +1,11 @@
+# data and outputs are not part of the repository
+data/
+*.tif
+*.tiff
+*.nc
+*.geojson
+*.gpkg
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

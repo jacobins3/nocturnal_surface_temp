@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+xarray
+netCDF4
+rasterio
+geopandas
+shapely
+matplotlib
+scikit-learn
+xgboost
+shap
+pystac-client
+planetary-computer
+earthaccess
+cdsapi
+requests
